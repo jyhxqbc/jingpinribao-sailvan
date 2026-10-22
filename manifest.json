@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "精品日报",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "147 精品日报：本地 Amazon 经营分析、增量导入、层级透视、广告图表与 ASIN 聚合链接。",
   "minimum_chrome_version": "120",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq99ujenjegZpQPvTQKJaN+bP5vuYYTOBPjpVT/+HP/6HOf16y1OhXd4+842baR7iSQXHisThnL1AqPyvj9toXtRaeY12fIz/9TwC4ZEHOy/GEW1G34oe3cNcdgDlTW2Ktzt6YW5NNrIRFnzJU/xOkGbdheZyNI6payPdMdCDZLdLZAigqfidF8Il1a2MfUcbsAqFJ4XjBz/v/8+4zv81dxDqOfbkXkO+K9BFshPd+EgO45JGxmjr/xME/6/ZVDVkFu32FRGaspv+oy1AsvC3Siy1sh2MMO8IrKOGqKDN89oNqSlpogpg3c+Kd/MrJEi9G9p0nY810QzGOdpmFTL7wwIDAQAB",
